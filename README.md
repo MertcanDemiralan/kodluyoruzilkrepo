@@ -1,3 +1,6 @@
+![Screenshot_1](https://user-images.githubusercontent.com/62715500/118004828-7c5b9900-b352-11eb-8330-e079ede624ce.png)
+
+
 # kodluyoruzilkrepo
 Java ile Backend Web Development kapsamında açtığım repo ile açtığım
 
